@@ -378,4 +378,12 @@
     margin-bottom: 20px;
   }
 }
+@media (max-width: 410px) {
+  #hero{
+    padding: 50px;
+  }
+  #hero .content{
+    padding-top: 40px;
+  }
+}
 /* End of Media Query */
