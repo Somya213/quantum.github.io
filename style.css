@@ -99,7 +99,7 @@
 
 #about .right {
   width: 50%;
-  background: url("./images/window.jpg");
+  background: url('./images/window.jpg');
   background-size: cover;
   background-position: center;
 }
